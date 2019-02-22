@@ -6,7 +6,7 @@ There are many ways in which you can contribute, beyond writing code. The goal o
 
 ## Asking Questions
 
-Have a question? Rather than opening an issue, please ask away on [Forum](https://forum.katalon.com/categories/katalon-analytics).
+Have a question? Rather than opening an issue, please ask away on [Forum](https://forum.katalon.com/c/katalon-analytics).
 
 The active community will be eager to assist you. Your well-worded question will serve as a resource to others searching for help.
 
@@ -16,7 +16,7 @@ Your comments and feedback are welcome, and the development team is available vi
 
 ## Reporting Issues
 
-Have you identified a reproducible problem in Katalon Analytics ? Have a feature request? We want to hear about it! Here's how you can make reporting your issue as effective as possible.
+Have you identified a reproducible problem in Katalon Analytics? Have a feature request? We want to hear about it! Here's how you can make reporting your issue as effective as possible.
 
 ### Look For an Existing Issue
 
@@ -40,7 +40,7 @@ Do not add your issue as a comment to an existing issue unless it's for the iden
 
 The more information you can provide, the more likely someone will be successful at reproducing the issue and finding a fix.
 
-The built-in tool for reporting an issue, which you can access by using `Report Issue` in Katatlon Analytics's Feeback menu, can help streamline this process by automatically providing the feedback template with needed fields.
+The built-in tool for reporting an issue, which you can access by using `Report Issue` in Katatlon Analytics's Feedback menu, can help streamline this process by automatically providing the feedback template with needed fields.
 
 Please include the following with each issue:
 
